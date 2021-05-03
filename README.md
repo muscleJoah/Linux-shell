@@ -12,3 +12,5 @@
 
 -history
 
+-cd command
+
